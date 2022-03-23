@@ -4,3 +4,4 @@
 - i’m guessing there’s also a good amount of labeled data from RCTs specifically, which is used by efforts like RobotReviewer to extract PICO frames (essentially a specific representation of results): https://www.robotreviewer.net/
 - CIVIC (https://civicdb.org/home) has a good number of high quality evidence statements, though it’s laser focused on cancer genetics.
 - discourse graphs from Joel and Matt (and others)
+- repurpose structured abstracts?
